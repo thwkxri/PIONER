@@ -501,11 +501,11 @@ footer {
   .call {
     display: flex;
     padding: 0 50px;
-    top: 70%;
+    top: 60%;
   }
 
   .connection{
-    top: 85%;
+    top: 80%;
     z-index: 9999;
     padding: 0 50px;
 
@@ -1102,7 +1102,7 @@ footer {
     padding-left: 120px;
     position: absolute;
   }
-
+  
   .copyright {
     position: absolute;
     bottom: 15px;
